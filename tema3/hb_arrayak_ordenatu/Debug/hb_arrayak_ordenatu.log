@@ -1,0 +1,15 @@
+﻿Compilación iniciada a las 30/11/2013 15:22:43.
+     1>Proyecto "C:\Users\Aitor\Documents\MGEP\1. Seihilekoa\Programazioa\C\src\tema3\hb_arrayak_ordenatu\hb_arrayak_ordenatu.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt hb_arrayak_ordenatu.c
+         hb_arrayak_ordenatu.c
+     1>c:\users\aitor\documents\mgep\1. seihilekoa\programazioa\c\src\tema3\hb_arrayak_ordenatu\hb_arrayak_ordenatu.c(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Aitor\Documents\MGEP\1. Seihilekoa\Programazioa\C\src\tema3\Debug\hb_arrayak_ordenatu.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Aitor\Documents\MGEP\1. Seihilekoa\Programazioa\C\src\tema3\Debug\hb_arrayak_ordenatu.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Aitor\Documents\MGEP\1. Seihilekoa\Programazioa\C\src\tema3\Debug\hb_arrayak_ordenatu.lib" /MACHINE:X86 Debug\hb_arrayak_ordenatu.obj
+         hb_arrayak_ordenatu.vcxproj -> C:\Users\Aitor\Documents\MGEP\1. Seihilekoa\Programazioa\C\src\tema3\Debug\hb_arrayak_ordenatu.exe
+     1>Compilación del proyecto terminada "C:\Users\Aitor\Documents\MGEP\1. Seihilekoa\Programazioa\C\src\tema3\hb_arrayak_ordenatu\hb_arrayak_ordenatu.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.05

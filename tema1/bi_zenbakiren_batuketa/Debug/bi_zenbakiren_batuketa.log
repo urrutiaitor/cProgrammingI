@@ -1,0 +1,31 @@
+﻿Compilación iniciada a las 15/10/2013 15:04:21.
+Proyecto "E:\MGEP\Programazioaren oinarriak\src\tema1\bi_zenbakiren_batuketa\bi_zenbakiren_batuketa.vcxproj" en el nodo 2 (build destinos).
+InitializeBuildStatus:
+  Se creará "Debug\bi_zenbakiren_batuketa.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt bi_zenbakiren_batura.c
+  bi_zenbakiren_batura.c
+e:\mgep\programazioaren oinarriak\src\tema1\bi_zenbakiren_batuketa\bi_zenbakiren_batura.c(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : vea la declaración de 'scanf'
+e:\mgep\programazioaren oinarriak\src\tema1\bi_zenbakiren_batuketa\bi_zenbakiren_batura.c(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : vea la declaración de 'scanf'
+ManifestResourceCompile:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\bi_zenbakiren_batuketa.exe.embed.manifest.res" Debug\bi_zenbakiren_batuketa_manifest.rc 
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\MGEP\Programazioaren oinarriak\src\tema1\Debug\bi_zenbakiren_batuketa.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\bi_zenbakiren_batuketa.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\MGEP\Programazioaren oinarriak\src\tema1\Debug\bi_zenbakiren_batuketa.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\MGEP\Programazioaren oinarriak\src\tema1\Debug\bi_zenbakiren_batuketa.lib" /MACHINE:X86 Debug\bi_zenbakiren_batuketa.exe.embed.manifest.res
+  Debug\bi_zenbakiren_batura.obj
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\bi_zenbakiren_batuketa.exe.embed.manifest" /manifest Debug\bi_zenbakiren_batuketa.exe.intermediate.manifest
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\bi_zenbakiren_batuketa.exe.embed.manifest.res" Debug\bi_zenbakiren_batuketa_manifest.rc 
+LinkEmbedManifest:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\MGEP\Programazioaren oinarriak\src\tema1\Debug\bi_zenbakiren_batuketa.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\bi_zenbakiren_batuketa.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\MGEP\Programazioaren oinarriak\src\tema1\Debug\bi_zenbakiren_batuketa.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\MGEP\Programazioaren oinarriak\src\tema1\Debug\bi_zenbakiren_batuketa.lib" /MACHINE:X86 Debug\bi_zenbakiren_batuketa.exe.embed.manifest.res
+  Debug\bi_zenbakiren_batura.obj
+  bi_zenbakiren_batuketa.vcxproj -> E:\MGEP\Programazioaren oinarriak\src\tema1\Debug\bi_zenbakiren_batuketa.exe
+FinalizeBuildStatus:
+  Se eliminará el archivo "Debug\bi_zenbakiren_batuketa.unsuccessfulbuild".
+  Aplicando tarea Touch a "Debug\bi_zenbakiren_batuketa.lastbuildstate".
+Compilación del proyecto terminada "E:\MGEP\Programazioaren oinarriak\src\tema1\bi_zenbakiren_batuketa\bi_zenbakiren_batuketa.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:28.82

@@ -1,0 +1,25 @@
+﻿Compilación iniciada a las 12/10/2013 12:05:35.
+Proyecto "E:\MGEP\programazioa\src\tema1\konbertsorea\konbertsorea.vcxproj" en el nodo 2 (build destinos).
+InitializeBuildStatus:
+  Se creará "Debug\konbertsorea.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+ClCompile:
+  Todas las salidas están actualizadas.
+ManifestResourceCompile:
+  Todas las salidas están actualizadas.
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\MGEP\programazioa\src\tema1\Debug\konbertsorea.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\konbertsorea.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\MGEP\programazioa\src\tema1\Debug\konbertsorea.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\MGEP\programazioa\src\tema1\Debug\konbertsorea.lib" /MACHINE:X86 Debug\konbertsorea.exe.embed.manifest.res
+  Debug\konbertsorea.obj
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\konbertsorea.exe.embed.manifest" /manifest Debug\konbertsorea.exe.intermediate.manifest
+  Todas las salidas están actualizadas.
+LinkEmbedManifest:
+  Todas las salidas están actualizadas.
+  konbertsorea.vcxproj -> E:\MGEP\programazioa\src\tema1\Debug\konbertsorea.exe
+FinalizeBuildStatus:
+  Se eliminará el archivo "Debug\konbertsorea.unsuccessfulbuild".
+  Aplicando tarea Touch a "Debug\konbertsorea.lastbuildstate".
+Compilación del proyecto terminada "E:\MGEP\programazioa\src\tema1\konbertsorea\konbertsorea.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:26.62

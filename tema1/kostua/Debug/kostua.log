@@ -1,0 +1,25 @@
+﻿Compilación iniciada a las 12/10/2013 12:08:52.
+Proyecto "E:\MGEP\programazioa\src\tema1\kostua\kostua.vcxproj" en el nodo 2 (build destinos).
+InitializeBuildStatus:
+  Se creará "Debug\kostua.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+ClCompile:
+  Todas las salidas están actualizadas.
+ManifestResourceCompile:
+  Todas las salidas están actualizadas.
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\MGEP\programazioa\src\tema1\Debug\kostua.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\kostua.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\MGEP\programazioa\src\tema1\Debug\kostua.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\MGEP\programazioa\src\tema1\Debug\kostua.lib" /MACHINE:X86 Debug\kostua.exe.embed.manifest.res
+  Debug\kostua.obj
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\kostua.exe.embed.manifest" /manifest Debug\kostua.exe.intermediate.manifest
+  Todas las salidas están actualizadas.
+LinkEmbedManifest:
+  Todas las salidas están actualizadas.
+  kostua.vcxproj -> E:\MGEP\programazioa\src\tema1\Debug\kostua.exe
+FinalizeBuildStatus:
+  Se eliminará el archivo "Debug\kostua.unsuccessfulbuild".
+  Aplicando tarea Touch a "Debug\kostua.lastbuildstate".
+Compilación del proyecto terminada "E:\MGEP\programazioa\src\tema1\kostua\kostua.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:44.91

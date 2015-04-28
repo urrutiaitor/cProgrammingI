@@ -1,0 +1,26 @@
+﻿Compilación iniciada a las 13/10/2013 22:09:42.
+Proyecto "E:\MGEP\Programazioaren oinarriak\src\tema1\erlojua\erlojua.vcxproj" en el nodo 2 (build destinos).
+InitializeBuildStatus:
+  Se creará "Debug\erlojua.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+ClCompile:
+  Todas las salidas están actualizadas.
+ManifestResourceCompile:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\erlojua.exe.embed.manifest.res" Debug\erlojua_manifest.rc 
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\MGEP\Programazioaren oinarriak\src\tema1\Debug\erlojua.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\erlojua.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\MGEP\Programazioaren oinarriak\src\tema1\Debug\erlojua.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\MGEP\Programazioaren oinarriak\src\tema1\Debug\erlojua.lib" /MACHINE:X86 Debug\erlojua.exe.embed.manifest.res
+  Debug\erlojua.obj
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\erlojua.exe.embed.manifest" /manifest Debug\erlojua.exe.intermediate.manifest
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\erlojua.exe.embed.manifest.res" Debug\erlojua_manifest.rc 
+LinkEmbedManifest:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\MGEP\Programazioaren oinarriak\src\tema1\Debug\erlojua.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\erlojua.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\MGEP\Programazioaren oinarriak\src\tema1\Debug\erlojua.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\MGEP\Programazioaren oinarriak\src\tema1\Debug\erlojua.lib" /MACHINE:X86 Debug\erlojua.exe.embed.manifest.res
+  Debug\erlojua.obj
+  erlojua.vcxproj -> E:\MGEP\Programazioaren oinarriak\src\tema1\Debug\erlojua.exe
+FinalizeBuildStatus:
+  Se eliminará el archivo "Debug\erlojua.unsuccessfulbuild".
+  Aplicando tarea Touch a "Debug\erlojua.lastbuildstate".
+Compilación del proyecto terminada "E:\MGEP\Programazioaren oinarriak\src\tema1\erlojua\erlojua.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:27.65

@@ -1,0 +1,16 @@
+﻿Compilación iniciada a las 22/11/2013 11:17:38.
+     1>Proyecto "C:\Users\Aitor\Documents\MGEP\1. Seihilekoa\Programazioa\C\src\tema3\ea_pares_impares\ea_pares_impares.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ea_pares_impares.c
+         ea_pares_impares.c
+     1>c:\users\aitor\documents\mgep\1. seihilekoa\programazioa\c\src\tema3\ea_pares_impares\ea_pares_impares.c(39): warning C4244: 'función' : conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+     1>c:\users\aitor\documents\mgep\1. seihilekoa\programazioa\c\src\tema3\ea_pares_impares\ea_pares_impares.c(121): warning C4098: 'arraya_ordenatu' : función 'void' que devuelve un valor
+     1>c:\users\aitor\documents\mgep\1. seihilekoa\programazioa\c\src\tema3\ea_pares_impares\ea_pares_impares.c(136): warning C4098: 'arraya_printatu' : función 'void' que devuelve un valor
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Aitor\Documents\MGEP\1. Seihilekoa\Programazioa\C\src\tema3\Debug\ea_pares_impares.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Aitor\Documents\MGEP\1. Seihilekoa\Programazioa\C\src\tema3\Debug\ea_pares_impares.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Aitor\Documents\MGEP\1. Seihilekoa\Programazioa\C\src\tema3\Debug\ea_pares_impares.lib" /MACHINE:X86 Debug\ea_pares_impares.obj
+         ea_pares_impares.vcxproj -> C:\Users\Aitor\Documents\MGEP\1. Seihilekoa\Programazioa\C\src\tema3\Debug\ea_pares_impares.exe
+     1>Compilación del proyecto terminada "C:\Users\Aitor\Documents\MGEP\1. Seihilekoa\Programazioa\C\src\tema3\ea_pares_impares\ea_pares_impares.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.93

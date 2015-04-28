@@ -1,0 +1,7 @@
+>Zenbaki negatiboa sartzen den bakoitzean handiagoa dela jartzen du, positiboa sartzean txikiagoa eta zeroa sartzen ezer ez.
+>22. lerroan, ezIgarria == TRUE jarri behar da zenbakia igartzean bukle horretatik irtetzeko.
+>22. lerroan, || jartzen duen lekuan && jarri behar da.
+>40. lerroan, saiakera = saiakerak - 1 jartzen duen lekuan + jarri behar da.
+>43. lerroan, ezIgerria = TRUE jartzen zuen lekuan ezIgerria == FALSE jarri behar da.
+>45. lerroan, \n jarri behar da lerroa banantzeko.
+>programaren azkenean partida berriro ere egiteko 1 jartzen denean ez du ondo funtzionatzen baina ez dakit nola konpondu behar den.

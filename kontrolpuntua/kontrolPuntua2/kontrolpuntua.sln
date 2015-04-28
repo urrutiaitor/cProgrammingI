@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ariketa1laukia", "ariketa1laukia\ariketa1laukia.vcxproj", "{303719A4-69F5-4343-A41A-0684D1D4F4C7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ariketa1hirukia.c", "ariketa1hirukia.c\ariketa1hirukia.c.vcxproj", "{0FAE3AF7-5089-4E84-B460-1835D731A341}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ariketa2", "ariketa2\ariketa2.vcxproj", "{AC1DB5DA-6679-4F92-9E7B-6C02F7685B21}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ariketa3", "ariketa3\ariketa3.vcxproj", "{F6DF75E5-E041-42BA-BF12-649997F1CE29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{303719A4-69F5-4343-A41A-0684D1D4F4C7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{303719A4-69F5-4343-A41A-0684D1D4F4C7}.Debug|Win32.Build.0 = Debug|Win32
+		{303719A4-69F5-4343-A41A-0684D1D4F4C7}.Release|Win32.ActiveCfg = Release|Win32
+		{303719A4-69F5-4343-A41A-0684D1D4F4C7}.Release|Win32.Build.0 = Release|Win32
+		{0FAE3AF7-5089-4E84-B460-1835D731A341}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0FAE3AF7-5089-4E84-B460-1835D731A341}.Debug|Win32.Build.0 = Debug|Win32
+		{0FAE3AF7-5089-4E84-B460-1835D731A341}.Release|Win32.ActiveCfg = Release|Win32
+		{0FAE3AF7-5089-4E84-B460-1835D731A341}.Release|Win32.Build.0 = Release|Win32
+		{AC1DB5DA-6679-4F92-9E7B-6C02F7685B21}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AC1DB5DA-6679-4F92-9E7B-6C02F7685B21}.Debug|Win32.Build.0 = Debug|Win32
+		{AC1DB5DA-6679-4F92-9E7B-6C02F7685B21}.Release|Win32.ActiveCfg = Release|Win32
+		{AC1DB5DA-6679-4F92-9E7B-6C02F7685B21}.Release|Win32.Build.0 = Release|Win32
+		{F6DF75E5-E041-42BA-BF12-649997F1CE29}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F6DF75E5-E041-42BA-BF12-649997F1CE29}.Debug|Win32.Build.0 = Debug|Win32
+		{F6DF75E5-E041-42BA-BF12-649997F1CE29}.Release|Win32.ActiveCfg = Release|Win32
+		{F6DF75E5-E041-42BA-BF12-649997F1CE29}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
